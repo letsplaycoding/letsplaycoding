@@ -23,11 +23,42 @@
   <img src="https://skillicons.dev/icons?i=linux" width="48"> 
   <img src="https://skillicons.dev/icons?i=git" width="48">
   <img src="https://skillicons.dev/icons?i=github" width="48">
-  
+  <img src="https://skillicons.dev/icons?i=discord" width="48">
+  <img src="https://skillicons.dev/icons?i=bots" width="48">
+<br>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="48">
+  <img src="https://skillicons.dev/icons?i=figma" width="48">
+  <img src="https://skillicons.dev/icons?i=idea" width="48">
+  <img src="https://skillicons.dev/icons?i=notion" width="48">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48">
 <br>
 <img src="https://a11ybadges.com/badge?logo=oracle">
 <img src="https://a11ybadges.com/badge?logo=mariadb">
 <img src="https://a11ybadges.com/badge?logo=apachetomcat">
 </div>
+
+<br>
+
+<div align=center><h1> WANNA GET SKILLS </h1></div>
+<div align=center>
+  <img src="https://skillicons.dev/icons?i=docker" width="48">
+  <img src="https://skillicons.dev/icons?i=aiscript" width="48">
+  <img src="https://skillicons.dev/icons?i=aws" width="48">
+  <img src="https://skillicons.dev/icons?i=c" width="48">
+  <img src="https://skillicons.dev/icons?i=ai" width="48">
+<br>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48">
+  <img src="https://skillicons.dev/icons?i=grafana" width="48">
+  <img src="https://skillicons.dev/icons?i=gcp" width="48">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48">
+  <img src="https://skillicons.dev/icons?i=nginx" width="48">
+<br>
+  <img src="https://skillicons.dev/icons?i=react" width="48">
+  <img src="https://skillicons.dev/icons?i=unity" width="48">
+  <img src="https://skillicons.dev/icons?i=unreal" width="48">
+</div>
+
+<br>
+<br>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
