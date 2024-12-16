@@ -39,7 +39,7 @@
 
 <br>
 
-<div align=center><h1> WANNA GET SKILLS </h1></div>
+<div align=center><h1> 🐱‍👤 WANNA GET SKILLS </h1></div>
 <div align=center>
   <img src="https://skillicons.dev/icons?i=docker" width="48">
   <img src="https://skillicons.dev/icons?i=aiscript" width="48">
