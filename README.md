@@ -39,26 +39,6 @@
 
 <br>
 
-<div align=center><h1> 🐱‍👤 WANNA GET SKILLS </h1></div>
-<div align=center>
-  <img src="https://skillicons.dev/icons?i=docker" width="48">
-  <img src="https://skillicons.dev/icons?i=aiscript" width="48">
-  <img src="https://skillicons.dev/icons?i=aws" width="48">
-  <img src="https://skillicons.dev/icons?i=c" width="48">
-  <img src="https://skillicons.dev/icons?i=ai" width="48">
-<br>
-  <img src="https://skillicons.dev/icons?i=githubactions" width="48">
-  <img src="https://skillicons.dev/icons?i=grafana" width="48">
-  <img src="https://skillicons.dev/icons?i=gcp" width="48">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48">
-  <img src="https://skillicons.dev/icons?i=nginx" width="48">
-<br>
-  <img src="https://skillicons.dev/icons?i=react" width="48">
-  <img src="https://skillicons.dev/icons?i=unity" width="48">
-  <img src="https://skillicons.dev/icons?i=unreal" width="48">
-</div>
-
-<br>
 <br>
 
 <!--![](./profile-3d-contrib/profile-gitblock.svg)
